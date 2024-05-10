@@ -10,7 +10,7 @@ In March, we will be sponsored by Babiel (https://www.babiel.com/) and do an eve
 • 18:00 - 18:50: Arrival, get a drink and socialize
 • 19:00 - ~19:30: Talk #1 "For those times when you need more than 1 server, or none" + Q&A
 • 19:45 - ~20:15: Talk #2 "Advanced integration patterns & trade-offs for loosely coupled systems" + Q&A
-• 20:15 - Open End: Socialising
+• 20:15 - Open End: Socializing
 
 ### For those times when you need more than 1 server, or none (by John Mousa & Stefan Christoph) +++
 Scaling in modern distributed architectures is often hard to get right. Over time we keep adding abstraction and decoupling components that add complexity to maintainability and operations. Yet, today’s business challenges are demanding more operational excellence, resilience, scale with cost-effective solutions. If you find this balance hard to strive for, we think so too, but we have your back. Join Stefan and John from AWS showing scalable cloud architectures that don’t break your bank, and simplify your operational landscape along the way. We’ll show how to approach modern service architectures and patterns with serverless solutions that are simple to understand and operate.

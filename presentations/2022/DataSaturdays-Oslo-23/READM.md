@@ -8,5 +8,5 @@ As enterprises scale in size and engage in business model innovation, extracting
 
 Session presented on [Data Saturdays Oslo 2022](https://datasaturdays.com/2022-09-10-datasaturday0023/#schedule).
 
-## Feedabck
+## Feedback
 Feel free to give your [feedback about the session here](https://eventbox.dev/survey/1J020R6).

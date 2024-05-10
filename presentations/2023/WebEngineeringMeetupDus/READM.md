@@ -6,5 +6,5 @@ The perfect test for a realtime data architecture, is how to cope with time seri
 
 Session presented on [Web Engineering Düsseldorf Meetup](https://www.meetup.com/web-engineering-duesseldorf/events/296423837/).
 
-## Feedabck
+## Feedback
 Feel free to give your [feedback about the session here](https://pulse.aws/survey/FL1FAATO).

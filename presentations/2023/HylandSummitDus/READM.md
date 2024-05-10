@@ -10,5 +10,5 @@ We explore patterns for data extraction, data lakes and lake house architectures
 
 Session presented on [HylandSummit Düsseldorf](https://web.cvent.com/event/73bedca2-50a7-4239-9ad0-d84123edf0be/websitePage:55babf6b-bdee-4659-a3ad-435cde65b634).
 
-## Feedabck
+## Feedback
 Feel free to give your [feedback about the session here](https://pulse.aws/survey/XDQNGJKR).

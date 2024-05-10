@@ -4,9 +4,9 @@ What successful organizations have in common is driving outcomes and value based
 
 With all these patterns, as an architect, you face the challenges of navigating multiple concepts where decisions are impacted by the fear of “missing out“ or ”lock in“. In this talk we use a model to guide you around data platform architecture patterns and capabilities. I also present how to use the model to architect for reversible decisions and scale multiple platforms as the data landscape grows. The goal is to support the business in its scalable data-driven journey towards innovation.
 
-## Data Saturdays Oslo
+## Voxxed Days Brussels 2023
 
 Session presented on [Voxxed Days Brussels 2023](https://brussels.voxxeddays.com/speaker-detail-page/?speakerId=3224).
 
-## Feedabck
+## Feedback
 Feel free to give your [feedback about the session here](https://pulse.buildon.aws/survey/QMFDNVYG).
